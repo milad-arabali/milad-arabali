@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, Javascript, Typescript, Angular, ...**
 
-- 📫 How to reach me **miladarabali@outlook.com**
+- 📫 How to reach me **milad.arabali@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
